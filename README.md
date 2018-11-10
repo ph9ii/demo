@@ -1,5 +1,7 @@
 # DEMO Header
 
+This is a demo
+
 ## Heading 2
 
-This is a demo
+Adding somthing to heading2
